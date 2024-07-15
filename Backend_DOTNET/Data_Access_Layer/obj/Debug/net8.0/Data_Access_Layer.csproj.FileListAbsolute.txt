@@ -1,0 +1,15 @@
+E:\Internship\DAY-FINAL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+E:\Internship\DAY-FINAL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+E:\Internship\DAY-FINAL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+E:\Internship\DAY-FINAL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.sourcelink.json
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+E:\Internship\DAY-FINAL\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
