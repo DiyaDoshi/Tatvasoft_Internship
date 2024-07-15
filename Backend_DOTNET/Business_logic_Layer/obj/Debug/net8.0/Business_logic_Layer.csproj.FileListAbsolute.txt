@@ -1,0 +1,16 @@
+E:\Internship\DAY-FINAL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+E:\Internship\DAY-FINAL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+E:\Internship\DAY-FINAL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+E:\Internship\DAY-FINAL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+E:\Internship\DAY-FINAL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.sourcelink.json
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+E:\Internship\DAY-FINAL\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
